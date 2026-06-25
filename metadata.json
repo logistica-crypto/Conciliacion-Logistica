@@ -1,0 +1,6 @@
+{
+  "name": "Conciliación de Logística y Facturación",
+  "description": "Plataforma centralizada de liquidación de despachos, control de horas extras y portal de pedidos para empleados de Latin Products SAS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
